@@ -10,7 +10,7 @@
 - Learining
     - [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=GO&logoColor=white)](https://golang.google.cn/)
 - Hobby
-    - [![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white)] [![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)]
+    - ![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wh0rigin)
