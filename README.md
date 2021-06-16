@@ -2,7 +2,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <p align="center">
     <img align="center" src="https://avatars.githubusercontent.com/u/66126744?s=200"/>
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin&theme=synthwave" />
+  <img align="center" height="200px" width="120px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin&theme=synthwave" />
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin&theme=synthwave" />
  </p>
 </a>
