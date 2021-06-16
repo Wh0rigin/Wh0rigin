@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   <br><br>
   <samp>
   </samp>
