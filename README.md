@@ -23,6 +23,7 @@ so,Who am i?
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <p align="center">
+    <img align="center" src="https://avatars.githubusercontent.com/u/66126744?s=200"/>
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin" />
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin" />
  </p>
