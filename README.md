@@ -25,6 +25,7 @@ so,Who am i?
 
 <center>
     NMD
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin)
     
 </center>
