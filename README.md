@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://bkimg.cdn.bcebos.com/pic/cefc1e178a82b90110515f43738da9773812efc6?x-bce-process=image/format,f_jpg" width="5px"/> Wh0rigin,a developer.
+<img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="5px"/> Wh0rigin,a developer.
 
 😄 光酒Sensei,a ASMVer ed.
 
