@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wh0rigin)
+
+<img src="https://camo.githubusercontent.com/d7490794a2d042e6eb6a434616022fe17f075368c31740e69bf1b3cb0acb273f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" width=300px>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin)
+
 <!--
 **Wh0rigin/Wh0rigin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wh0rigin)
-
----
-
-
-<img src="https://camo.githubusercontent.com/d7490794a2d042e6eb6a434616022fe17f075368c31740e69bf1b3cb0acb273f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" width=50%>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin)]
-
