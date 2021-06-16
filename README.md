@@ -39,7 +39,7 @@ so,Who am i?
 - ### Hobby
     - ![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)
 - ### Before
-    - [![arduino](https://img.shields.io/badge/-Arduino-7fcbcd?style=flat-square&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![blender](https://img.shields.io/badge/-Blender-E95420?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/)
+    - [![arduino](https://img.shields.io/badge/-Arduino-00ADD8?style=flat-square&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![blender](https://img.shields.io/badge/-Blender-E95420?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/)
 
 ---
 
