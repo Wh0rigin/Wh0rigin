@@ -35,7 +35,7 @@ so,Who am i?
     - [![Windows](https://img.shields.io/badge/Windows10-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
 
 - ### Learining
-    - [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=GO&logoColor=white)](https://golang.google.cn/)
+    - [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=GO&logoColor=white)](https://golang.google.cn/) [![DaVinci](https://img.shields.io/badge/-DaVinci-E95420?style=flat-square&logo=DaVinci&logoColor=white)](http://www.blackmagicdesign.com/products/davinciresolve/)
 - ### Hobby
     - ![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)
 - ### Before
