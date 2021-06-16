@@ -2,6 +2,10 @@
 
 ---
 
+[![CPP](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](http://www.cplusplus.com/)
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wh0rigin)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin)
