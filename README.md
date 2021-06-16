@@ -23,13 +23,12 @@ so,Who am i?
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wh0rigin)
 
-<p style="alige:center">
 
-`![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin)`
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin)
 
-</p>
-
-
+<a href= “https://github.com/anuraghazra/github-readme-stats”>
+  <img align= " center " src= " https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin " />
+</a>
 
 
 
