@@ -21,7 +21,11 @@ so,Who am i?
     - ![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wh0rigin)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin" />
+ </p>
+</a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
