@@ -1,5 +1,17 @@
 ## Hi there 👋
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+    <img align="center" src="https://avatars.githubusercontent.com/u/66126744?s=200"/>
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin" />
+ </p>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  
+ </p>
+</a>
+---
 <img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> Wh0rigin,a developer.
 
 <img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> 光酒Sensei,a ASMVer ed.
@@ -21,18 +33,7 @@ so,Who am i?
     - ![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<p align="center">
-    <img align="center" src="https://avatars.githubusercontent.com/u/66126744?s=200"/>
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin" />
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin" />
- </p>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<p align="center">
-  
- </p>
-</a>
+
 
 
 
