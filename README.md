@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   <samp>
   </samp>
 </p>
----
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin)
 
