@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+😄 Wh0rigin,a developer.
+😄 光酒Sensei,a ASMVer ed.
+😄 H'Sensei,A BIG HENTAI who is a gamer.
+
+so,Who am i?
+
+😄 i am a student come from China.
+
 - ### Using:
     - [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/Wh0rigin)  [![CPP](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](http://www.cplusplus.com/)
     - [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  [![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)  [![Mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
