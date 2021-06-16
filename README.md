@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="50px"/> Wh0rigin,a developer.
+<img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> Wh0rigin,a developer.
 
 😄 光酒Sensei,a ASMVer ed.
 
