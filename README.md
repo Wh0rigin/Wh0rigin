@@ -1,16 +1,9 @@
 ## Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-
-<p align="center">
-
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin&theme=synthwave" />
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin&theme=synthwave" />
- </p>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<p align="center">
-  
- </p>
+  <p align="center">
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin&theme=synthwave" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin&theme=synthwave" />
+  </p>
 </a>
 
 ---
@@ -46,8 +39,8 @@ so,Who am i?
 
 ---
 <p align = "center">
-  <img align="center" src="https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWh0rigin"/>
-  <img align="center" src="https://img.shields.io/badge/dynamic/json?color=1E90FF&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&suffix=%20%E5%85%B3%E6%B3%A8%E8%80%85&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dguang-jiu-48-93"/>
+  <a href="https://github.com/Wh0rigin" target="_blank" ><img align="center" src="https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWh0rigin"/></a>
+  <a href="https://www.zhihu.com/people/guang-jiu-48-93" target="_blank" ><img align="center" src="https://img.shields.io/badge/dynamic/json?color=1E90FF&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&suffix=%20%E5%85%B3%E6%B3%A8%E8%80%85&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dguang-jiu-48-93"/></a>
 </p>
   
 <!--
