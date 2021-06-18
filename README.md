@@ -33,7 +33,7 @@
     - [![Windows](https://img.shields.io/badge/Windows10-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/) [![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)](https://www.centos.org/)
     - ![Zigbee](https://img.shields.io/badge/cc2530-000000?style=flat-square&logo=Zigbee&logoColor=fff) ![8051](https://img.shields.io/badge/8051-0078d7?style=flat-square&logo=STC&logoColor=fff) ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-FFCC00?style=flat-square&logo=Altium%20Designer&logoColor=fff)
 - ### Learning🌱
-    - [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=GO&logoColor=white)](https://golang.google.cn/)  ![docker](https://img.shields.io/badge/-Docker-00ADD8?style=flat-square&logo=Docker&logoColor=white)
+    - [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=GO&logoColor=white)](https://golang.google.cn/)  ![docker](https://img.shields.io/badge/-Docker-00ADD8?style=flat-square&logo=Docker&logoColor=white) [![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=white)](https://cmake.org/)
 - ### Before⛵
     - [![arduino](https://img.shields.io/badge/-Arduino-00ADD8?style=flat-square&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![blender](https://img.shields.io/badge/-Blender-E95420?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/) ![C4D](https://img.shields.io/badge/-C4D-000000?style=flat-square&logo=Cinema4d&logoColor=white)
 
