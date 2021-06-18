@@ -49,8 +49,9 @@ so,Who am i?
 [![github](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWh0rigin)](https://github.com/Wh0rigin)
 
 </br>
-
-
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Wh0rigin.Wh0rigin" alt="visitor badge"/>    
+<p>
 
 <!--
 **Wh0rigin/Wh0rigin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
