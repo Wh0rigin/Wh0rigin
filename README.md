@@ -30,16 +30,16 @@ so,Who am i?
     - [![Windows](https://img.shields.io/badge/Windows10-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
 <img src="https://count.getloli.com/get/@Wh0rigin?theme=rule34" alt=":Wh0rigin" align="right" />
 
-- ### Learining
+- ### Learining:
     - [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=GO&logoColor=white)](https://golang.google.cn/) 
-- ### Before
+- ### Before:
     - [![arduino](https://img.shields.io/badge/-Arduino-00ADD8?style=flat-square&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![blender](https://img.shields.io/badge/-Blender-E95420?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/)
-- ### Hobby
+- ### Hobby:
     - ![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)
 
 ---
 <details>
-  <summary>another me~me~me 🌈</summary>
+  <summary>Another me~me~me 🌈</summary>
   <p align = "center">
     <a href="https://github.com/Wh0rigin" target="_blank" ><img align="center" src="https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWh0rigin"/></a>
     <a href="https://www.zhihu.com/people/guang-jiu-48-93" target="_blank" ><img align="center" src="https://img.shields.io/badge/dynamic/json?color=1E90FF&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&suffix=%20%E5%85%B3%E6%B3%A8%E8%80%85&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dguang-jiu-48-93"/></a>
