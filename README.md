@@ -48,7 +48,7 @@ so,Who am i?
 
 [![github](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWh0rigin)](https://github.com/Wh0rigin)
 
-
+<a href="https://www.zhihu.com/people/guang-jiu-48-93" rel="nofollow"><img src="https://camo.githubusercontent.com/ad627ec4b5045810d5e0d4711c4d47c554ed50d2e32557a413742cdfedcb4a72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64796e616d69632f6a736f6e3f636f6c6f723d314539304646266c6162656c3d2545372539462541352545342542392538452671756572793d2532342e646174612e746f74616c53756273267375666669783d2532302545352538352542332545362542332541382545382538302538352675726c3d68747470732533412532462532466170692e7370656e636572776f6f2e636f6d2532467375627374617473253246253346736f757263652533447a6869687525323671756572794b6579253344776f6e7a77616e67" alt="" data-canonical-src="https://img.shields.io/badge/dynamic/json?color=1E90FF&amp;label=%E7%9F%A5%E4%B9%8E&amp;query=%24.data.totalSubs&amp;suffix=%20%E5%85%B3%E6%B3%A8%E8%80%85&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dguang-jiu-48-93" style="max-width:100%;"></a>
 
 
 <!--
