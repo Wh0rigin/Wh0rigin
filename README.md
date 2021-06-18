@@ -21,8 +21,10 @@
 **so,Who am i?**
 
 <img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> i am a student come from China.
-
-
+<details>
+  <summary>More detailed description about me 💬</summary>
+  施工中...
+</details>
 
 - ### Using🧐
     - [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/Wh0rigin)  [![CPP](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](http://www.cplusplus.com/)
