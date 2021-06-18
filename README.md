@@ -53,6 +53,7 @@
     <a href="https://github.com/Wh0rigin" target="_blank" ><img align="center" src="https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWh0rigin"/></a>
     <a href="https://www.zhihu.com/people/guang-jiu-48-93" target="_blank" ><img align="center" src="https://img.shields.io/badge/dynamic/json?color=1E90FF&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&suffix=%20%E5%85%B3%E6%B3%A8%E8%80%85&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dguang-jiu-48-93"/></a>
     <a href="https://blog.csdn.net/qq_33985931?spm=1000.2115.3001.5343" target="_blank"><img align="center" src="https://img.shields.io/badge/CSDN-Wh0taku-orange"/></a>
+    <a href="https://leetcode-cn.com/u/wh0rigin/" target="_blank"><img align="center" src="https://img.shields.io/badge/Leetcode-Wh0rigin-yellow"/></a>
   </p>
 </details>
 <!--
