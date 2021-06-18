@@ -42,7 +42,7 @@ so,Who am i?
     - [![arduino](https://img.shields.io/badge/-Arduino-00ADD8?style=flat-square&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![blender](https://img.shields.io/badge/-Blender-E95420?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/)
 
 ---
-[!miaomiao](https://count.getloli.com/get/@Wh0rigin?theme=rule34)
+![miaomiao](https://count.getloli.com/get/@Wh0rigin?theme=rule34)
 
 
 
