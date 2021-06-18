@@ -39,7 +39,9 @@
     - ![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)
 
 <img src="https://count.getloli.com/get/@Wh0rigin?theme=rule34" alt=":Wh0rigin" align="right" />
+
 ---
+
 <details>
   <summary>Another me~me~me 🌈</summary>
   <p align = "center">✨__They are all me__✨</p>
