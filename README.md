@@ -29,7 +29,7 @@
 
 - ### Using🧐
     - [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/Wh0rigin)  [![CPP](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](http://www.cplusplus.com/)
-    - [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![AS](https://img.shields.io/badge/-Android%20Studio-A8B9CC?style=flat-square&logo=Android%20Studio&logoColor=white)](https://developer.android.google.cn/studio) [![Mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+    - [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)](https://www.vim.org/) [![AS](https://img.shields.io/badge/-Android%20Studio-A8B9CC?style=flat-square&logo=Android%20Studio&logoColor=white)](https://developer.android.google.cn/studio) [![Mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
     - [![Windows](https://img.shields.io/badge/Windows10-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
 
 - ### Learning🌱
