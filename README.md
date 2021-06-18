@@ -18,7 +18,7 @@
 
 <img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> H'Sensei,A BIG HENTAI who is a gamer.
 
-so,Who am i?
+**so,Who am i?**
 
 <img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> i am a student come from China.
 
@@ -30,9 +30,9 @@ so,Who am i?
     - [![Windows](https://img.shields.io/badge/Windows10-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
 <img src="https://count.getloli.com/get/@Wh0rigin?theme=rule34" alt=":Wh0rigin" align="right" />
 
-- ### Learining✍🏻
+- ### Learning🌱
     - [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=GO&logoColor=white)](https://golang.google.cn/) 
-- ### Before:
+- ### Before⛵
     - [![arduino](https://img.shields.io/badge/-Arduino-00ADD8?style=flat-square&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![blender](https://img.shields.io/badge/-Blender-E95420?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/)
 - ### Hobby👯
     - ![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)
