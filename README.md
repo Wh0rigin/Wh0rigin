@@ -35,7 +35,7 @@
 - ### Learning🌱
     - [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=GO&logoColor=white)](https://golang.google.cn/)  ![docker](https://img.shields.io/badge/-Docker-00ADD8?style=flat-square&logo=Docker&logoColor=white) [![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=white)](https://cmake.org/)
 - ### Before⛵
-    - [![arduino](https://img.shields.io/badge/-Arduino-00ADD8?style=flat-square&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![blender](https://img.shields.io/badge/-Blender-E95420?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/) ![C4D](https://img.shields.io/badge/-C4D-000000?style=flat-square&logo=Cinema4d&logoColor=white)
+    - [![arduino](https://img.shields.io/badge/-Arduino-00ADD8?style=flat-square&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![blender](https://img.shields.io/badge/-Blender-E95420?style=flat-square&logo=Blender&logoColor=white)](https://www.blender.org/) ![C4D](https://img.shields.io/badge/-C4D-000000?style=flat-square&logo=Cinema4d&logoColor=black)
 
 <img src="https://count.getloli.com/get/@Wh0rigin?theme=rule34" alt=":Wh0rigin" align="right" />
 
