@@ -40,7 +40,7 @@
 <img src="https://count.getloli.com/get/@Wh0rigin?theme=rule34" alt=":Wh0rigin" align="right" />
 
 - ### Hobby👯
-    - ![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)  ![Pr](https://img.shields.io/badge/-Pr-000000?style=flat-square&logo=Premiere&logoColor=white)
+    - ![Anim](https://img.shields.io/badge/-animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-galgame-FFCC00?style=flat-square&logoColor=white)  ![Pr](https://img.shields.io/badge/-Pr-000000?style=flat-square&logo=Adobe%20Premiere&logoColor=white)
 
 
 
