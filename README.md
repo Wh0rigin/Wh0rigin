@@ -64,6 +64,8 @@
 
 <p align="center">Take a look at my repositories and let's get in touch!</p>
 
+<p align="center">Well,I'm seldom to check EMail.Perhaps,You can use the above platform to contact me!</p>
+
 <!--
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Wh0rigin.Wh0rigin" alt="visitor badge"/>    
