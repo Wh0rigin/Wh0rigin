@@ -65,7 +65,7 @@
 <p align="center">Take a look at my repositories and let's get in touch!</p>
 
 <details>
-<summary align="center">Well,I'm ⚠️_seldom_⚠️ to check EMail.</summary>
+<summary align="center">Well,I'm ⚠️__seldom__⚠️ to check EMail.</summary>
   <p align="center">📫 reach to Wh0Sensei@outlook.com</p>
 </details>
 <p align="center">📫 Perhaps,You can use the above platform to contact me!</p>
