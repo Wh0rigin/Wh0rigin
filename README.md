@@ -57,18 +57,20 @@
     <a href="https://blog.csdn.net/qq_33985931?spm=1000.2115.3001.5343" target="_blank"><img align="center" src="https://img.shields.io/badge/CSDN-Wh0taku-orange"/></a>
     <a href="https://leetcode-cn.com/u/wh0rigin/" target="_blank"><img align="center" src="https://img.shields.io/badge/Leetcode-Wh0rigin-yellow"/></a>
   </p>
+  
+  <b><p align="center">Take a look at my repositories and let's get in touch!</p></b>
+
+  <details>
+    <summary align="center">Well,I'm ⚠️__seldom__⚠️ to check EMail.</summary>
+    <p align="center">📫 reach to Wh0Sensei@outlook.com</p>
+  </details>
+  <p align="center">📫 Perhaps,You can use the above platform to contact me!</p>
 </details>
 <!--
 [![github](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWh0rigin)](https://github.com/Wh0rigin)
 -->
 
-<b><p align="center">Take a look at my repositories and let's get in touch!</p></b>
 
-<details>
-<summary align="center">Well,I'm ⚠️__seldom__⚠️ to check EMail.</summary>
-  <p align="center">📫 reach to Wh0Sensei@outlook.com</p>
-</details>
-<p align="center">📫 Perhaps,You can use the above platform to contact me!</p>
 <!--
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Wh0rigin.Wh0rigin" alt="visitor badge"/>    
