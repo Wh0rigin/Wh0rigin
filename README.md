@@ -63,8 +63,11 @@
 -->
 
 <p align="center">Take a look at my repositories and let's get in touch!</p>
-<p align="center">📫 reach to Wh0Sensei@outlook.com</p>
-<p align="center">⚠️Well,I'm **seldom** to check EMail.</p>
+
+<details>
+<summary align="center">Well,I'm ⚠️_seldom_⚠️ to check EMail.</summary>
+  <p align="center">📫 reach to Wh0Sensei@outlook.com</p>
+</details>
 <p align="center">📫 Perhaps,You can use the above platform to contact me!</p>
 <!--
 <p  align="center">
