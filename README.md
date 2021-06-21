@@ -25,8 +25,10 @@
 <details>
   <summary>More detailed description about me 💬</summary>
   ⚠️ 施工中...
-  </br>👨🏻‍💻A student of the Internet of Things，💻Interested in Software develop. 🌐Recent focus on backend.
-  </br>📚Participated in IoT competitions and maker competitions。
+  
+  * 👨🏻‍💻A student of the Internet of Things，💻Interested in Software develop. 🌐Recent focus on backend.
+  * 📚Participated in IoT competitions and maker competitions。
+  
 </details>
 
 - ### Using🧐
