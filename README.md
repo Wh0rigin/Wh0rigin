@@ -27,7 +27,7 @@
   
   * ⚠️ 施工中...
   
-  * 👨🏻‍💻A student of the Internet of Things，💻Interested in Software develop.
+  * 👨🏻‍💻A student of the Internet of Things，💻Interested in Software development.
       🌐Recent focus on backend.
   * 📚Participated in IoT competitions and maker competitions。
   * 🎬Interested in video editing,sometimes edit ASMV.
