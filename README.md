@@ -2,7 +2,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center">
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin&theme=flag-india&text_color=E9967A" />
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin&theme=flag-indiatext_color=E9967A" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin&theme=flag-india&text_color=E9967A" />
   </p>
 </a>
 
