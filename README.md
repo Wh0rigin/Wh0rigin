@@ -29,6 +29,7 @@
   
   * 👨🏻‍💻A student of the Internet of Things，💻Interested in Software develop. 🌐Recent focus on backend.
   * 📚Participated in IoT competitions and maker competitions。
+  * 🎬Interested in video editing,sometimes edit ASMV.None is good for which none upload online.
   
 </details>
 
