@@ -1,8 +1,8 @@
 ## Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin&theme=default&title_color=FFA500" />
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin&theme=default&title_color=FFA500" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin&theme=default&title_color=000080" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin&theme=default&title_color=000080" />
   </p>
 </a>
 
