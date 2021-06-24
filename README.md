@@ -64,7 +64,7 @@
     <a href="https://blog.csdn.net/qq_33985931?spm=1000.2115.3001.5343" target="_blank"><img align="center" src="https://img.shields.io/badge/CSDN-Wh0taku-orange"/></a>
     <a href="https://leetcode-cn.com/u/wh0rigin/" target="_blank"><img align="center" src="https://img.shields.io/badge/Leetcode-Wh0rigin-yellow"/></a>
   </p>
-  <img align="center" src="https://github.com/Wh0rigin/Wh0rigin/blob/main/img/Lain2.gif?raw=true" width="400px" alt="caviar" title="caviar" />
+  <p align="center"><img align="center" src="https://github.com/Wh0rigin/Wh0rigin/blob/main/img/Lain2.gif?raw=true" width="400px" alt="caviar" title="caviar" /></p>
   <b><p align="center">Take a look at my repositories and let's get in touch!</p></b>
 
   <details>
