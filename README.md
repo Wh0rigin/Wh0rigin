@@ -12,15 +12,15 @@
   <img align="right" src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/yuki.jpg" width="400px" alt="caviar" title="caviar" />
 </a>
 
-<img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> Wh0rigin,a developer.
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> Wh0rigin,a developer.
 
-<img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> 光酒Sensei,a ASMVer ed.
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> 光酒Sensei,a ASMVer ed.
 
-<img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> H'Sensei,A BIG HENTAI who is a gamer.
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> H'Sensei,A BIG HENTAI who is a gamer.
 
 **so,Who am i?**
 
-<img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> i am a student come from China.
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> i am a student come from China.
 
 <details>
   <summary>More detailed description about me 💬</summary>
@@ -64,7 +64,7 @@
     <a href="https://blog.csdn.net/qq_33985931?spm=1000.2115.3001.5343" target="_blank"><img align="center" src="https://img.shields.io/badge/CSDN-Wh0taku-orange"/></a>
     <a href="https://leetcode-cn.com/u/wh0rigin/" target="_blank"><img align="center" src="https://img.shields.io/badge/Leetcode-Wh0rigin-yellow"/></a>
   </p>
-  
+  <img align="center" src="https://github.com/Wh0rigin/Wh0rigin/blob/main/img/Lain2.gif?raw=true" width="400px" alt="caviar" title="caviar" />
   <b><p align="center">Take a look at my repositories and let's get in touch!</p></b>
 
   <details>
