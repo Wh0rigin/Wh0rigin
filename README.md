@@ -9,7 +9,7 @@
 ---
 
 <a target="_blank">
-  <img align="right" src="https://avatars.githubusercontent.com/u/66126744?s=400&u=de67fc880266027413fc08a0956b3be77532c9b7&v=4" width="300px" alt="caviar" title="caviar" />
+  <img align="right" src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/yuki.jpg" width="300px" alt="caviar" title="caviar" />
 </a>
 
 <img src="https://img.moegirl.org.cn/common/c/cb/%E7%AC%91%E8%84%B8%E7%94%B7.jpg" width="25px"/> Wh0rigin,a developer.
