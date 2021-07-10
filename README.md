@@ -37,8 +37,8 @@
   - [ ] Redis
   - [ ] A webserver have threadpool and IO Multiplexing.
   #### Now Doing
-      - [ ] advanced mathematics
-      - [ ] CET4
+  - [ ] advanced mathematics
+  - [ ] CET4
   
 </details>
 
