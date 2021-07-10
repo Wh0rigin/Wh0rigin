@@ -33,7 +33,7 @@
   * 🎬Interested in video editing,sometimes edit ASMV.
   
   <details>
-  <summary>#### My TODO list--⚡</summary>
+  <summary><b>My TODO list⚡</b></summary>
   
   - [ ] Kafka
   - [ ] Redis
