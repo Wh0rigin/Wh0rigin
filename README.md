@@ -32,14 +32,16 @@
   * 📚Participated in IoT competitions and maker competitions。
   * 🎬Interested in video editing,sometimes edit ASMV.
   
-  #### My TODO list--⚡
+  <details>
+  <summary>#### My TODO list--⚡</summary>
+  
   - [ ] Kafka
   - [ ] Redis
   - [ ] A webserver have threadpool and IO Multiplexing.
   #### Now Doing
   - [ ] advanced mathematics
   - [ ] CET4
-  
+  </details>
 </details>
 
 - ### Using🧐
