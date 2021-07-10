@@ -33,10 +33,10 @@
   * 🎬Interested in video editing,sometimes edit ASMV.
   
   #### My TODO list--⚡
-  - [ ] kafka
-  - [ ] redis
-  - [ ] a webserver have threadpool and IO Multiplexing.
-  - ####Now Doing
+  - [ ] Kafka
+  - [ ] Redis
+  - [ ] A webserver have threadpool and IO Multiplexing.
+  #### Now Doing
       - [ ] advanced mathematics
       - [ ] CET4
   
