@@ -42,13 +42,13 @@
   - [ ] advanced mathematics
   - [ ] CET4
     
-<p align="right">
+<div align="right">
 <b>My galgame list</b>
   - [x] Ever17
   - [ ] CROSS+CHANNEL
   - [ ] WHITE ALBUM2
   - [ ] 終ノ空 remake
-</p>
+</div>
   </details>
 </details>
 
