@@ -51,11 +51,13 @@
   - [ ] 終ノ空 remake
   
 </div>
-    
+<div style="float:left; text-align:left">
+  
   - #### Now Doing
   - [ ] advanced mathematics
   - [ ] CET4
-    
+
+</div>
   </details>
 </details>
 
