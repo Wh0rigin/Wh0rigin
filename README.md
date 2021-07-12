@@ -42,7 +42,7 @@
   - [ ] A webserver have threadpool and IO Multiplexing.
     </br>
     
-<div style="float:right;">
+<div style="float:right; text-align:right">
 <b>My galgame list</b>
   
   - [x] Ever17
