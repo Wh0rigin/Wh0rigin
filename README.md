@@ -42,7 +42,7 @@
   - [ ] A webserver have threadpool and IO Multiplexing.
     </br>
     
-<p align="right">
+<div align="float:right;">
 <b>My galgame list</b>
   
   - [x] Ever17
@@ -50,7 +50,7 @@
   - [ ] WHITE ALBUM2
   - [ ] 終ノ空 remake
   
-</p>
+</div>
 
   
   - #### Now Doing
