@@ -40,7 +40,7 @@
   - [ ] Kafka
   - [ ] Redis
   - [ ] A webserver have threadpool and IO Multiplexing.
-<div align="right">
+</br><div align="right">
 <b>My galgame list</b>
   
   - [x] Ever17
