@@ -42,7 +42,7 @@
   - [ ] A webserver have threadpool and IO Multiplexing.
     </br>
     
-<p style="float:right; text-align:right">
+<p align="right">
 <b>My galgame list</b>
   
   - [x] Ever17
@@ -51,13 +51,13 @@
   - [ ] 終ノ空 remake
   
 </p>
-<p style="float:left; text-align:left">
+
   
   - #### Now Doing
   - [ ] advanced mathematics
   - [ ] CET4
 
-</p>
+
   </details>
 </details>
 
