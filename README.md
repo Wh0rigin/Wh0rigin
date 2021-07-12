@@ -32,8 +32,18 @@
   * 📚Participated in IoT competitions and maker competitions。
   * 🎬Interested in video editing,sometimes edit ASMV.
   
+  
   <details>
   <summary><b>My TODO list⚡</b></summary>
+    <div align="right">
+<b>My galgame list</b>
+  
+  - [x] Ever17
+  - [ ] CROSS+CHANNEL
+  - [ ] WHITE ALBUM2
+  - [ ] 終ノ空 remake
+  
+</div>
   
   - [ ] Kafka
   - [ ] Redis
@@ -45,15 +55,6 @@
   - [ ] advanced mathematics
   - [ ] CET4
     
-<div align="right">
-<b>My galgame list</b>
-  
-  - [x] Ever17
-  - [ ] CROSS+CHANNEL
-  - [ ] WHITE ALBUM2
-  - [ ] 終ノ空 remake
-  
-</div>
   </details>
 </details>
 
