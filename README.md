@@ -38,11 +38,8 @@
   - [ ] Kafka
   - [ ] Redis
   - [ ] A webserver have threadpool and IO Multiplexing.
-  - #### Now Doing
-  - [ ] advanced mathematics
-  - [ ] CET4
     
-<div align="right">
+    <div align="right">
 <b>My galgame list</b>
   
   - [x] Ever17
@@ -51,6 +48,12 @@
   - [ ] 終ノ空 remake
   
 </div>
+    
+  - #### Now Doing
+  - [ ] advanced mathematics
+  - [ ] CET4
+    
+
   </details>
 </details>
 
