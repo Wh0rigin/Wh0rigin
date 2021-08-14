@@ -48,7 +48,7 @@
   
   - [x] Ever17
   - [x] CROSS+CHANNEL
-  - [ ] WHITE ALBUM2
+  - [x] WHITE ALBUM2
   - [ ] 終ノ空 remake
   
 </div>
