@@ -42,17 +42,6 @@
   - [ ] A webserver have threadpool and IO Multiplexing.
     
     </br>
-    
-<div align="right">
-<b>My galgame list</b>
-  
-  - [x] Ever17
-  - [x] CROSS+CHANNEL
-  - [x] WHITE ALBUM2
-  - [ ] 終ノ空 remake
-  
-</div>
-
   
   - #### Now Doing
   - [ ] advanced mathematics
