@@ -35,9 +35,9 @@
   <summary><b>My TODO list⚡</b></summary>
 
   
-  - [ ] Kafka
-  - [ ] Redis
-  - [ ] A webserver have threadpool and IO Multiplexing.
+  - [ ] rabbitmq
+  - [ ] K8s
+  - [ ] elasticSearch
  
   </details>
 </details>
