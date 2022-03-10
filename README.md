@@ -38,14 +38,7 @@
   - [ ] Kafka
   - [ ] Redis
   - [ ] A webserver have threadpool and IO Multiplexing.
-    
-    </br>
-  
-  - #### Now Doing
-  - [ ] advanced mathematics
-  - [ ] CET4
-
-
+ 
   </details>
 </details>
 
