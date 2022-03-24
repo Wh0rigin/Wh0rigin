@@ -105,20 +105,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### hardware  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-</div>
-
-</td></tr></table>  
+</td>
 
 <br/>  
 
-<details>
+</details>
 
 ---
 
