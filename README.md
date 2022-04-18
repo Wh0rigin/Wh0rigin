@@ -29,7 +29,7 @@
       🌐Recent focus on backend.
   * 📚Participated in IoT competitions and maker competitions。
   * 🎬Interested in video editing,sometimes edit ASMV.
-  
+  * 💠Mainly used cpp,py,go and java,Interested in Rust
   
   <details>
   <summary><b>My TODO list⚡</b></summary>
