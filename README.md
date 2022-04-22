@@ -30,6 +30,7 @@
   * 📚Participated in IoT competitions and maker competitions。
   * 🎬Interested in video editing,sometimes edit ASMV.
   * 💠Mainly used cpp,py,go and java,Interested in Rust
+  * 🍭Although I don't know front-end now, I want to use it in the future as a habby in my spare time
   
   <details>
   <summary><b>My TODO list⚡</b></summary>
