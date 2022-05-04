@@ -27,7 +27,7 @@
   
   * 👨🏻‍💻A student of the Internet of Things,💻Interested in Software development.
       🌐Recent focus on FullStack.like explore middleware's basic realization.
-  * 📚Participated in IoT competitions、intelligent car race and maker competitions。
+  * 📚Participated in IoT competitions、intelligent car race competition and maker competitions。
   * 🎬Interested in video editing,sometimes edit ASMV.
   * 💠Mainly used cpp,py,go and java,Interested in Rust
   * 🍭Although I don't know front-end now, I want to use it in the future as a habby in my spare time
