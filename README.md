@@ -26,7 +26,7 @@
   <summary>More detailed description about me 💬</summary>
   
   * 👨🏻‍💻A student of the Internet of Things,💻Interested in Software development.
-      🌐Recent focus on FullStack.like explore middleware's basic realization.
+      🌐Recent focus on FullStack.⛺Like explore middleware's basic realization.
   * 📚Participated in IoT competitions、intelligent car race competition and maker competitions。
   * 🎬Interested in video editing,sometimes edit ASMV.
   * 💠Mainly used cpp,py,go and java,Interested in Rust
