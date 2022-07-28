@@ -32,15 +32,6 @@
   * 💠Mainly used cpp,py,go and java,Interested in Rust
   * 🍭Although I don't know front-end now, I want to use it in the future as a habby in my spare time
   
-  <details>
-  <summary><b>My TODO list⚡</b></summary>
-
-  
-  - [x] rabbitmq
-  - [ ] K8s
-  - [x] elasticSearch
- 
-  </details>
 </details>
 
 - ### Using🧐
