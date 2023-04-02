@@ -16,8 +16,6 @@
 
 <img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> 光酒Sensei,a ASMVer ed.
 
-<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> H'Sensei,A BIG HENTAI who is a gamer.
-
 **so,Who am i?**
 
 <img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> i am a student come from China.
@@ -31,7 +29,7 @@
   * 🎬Interested in video editing,sometimes edit ASMV.
   * 💠Mainly used cpp,py,go and java,Interested in Rust
   * 🍭Although I don't know front-end now, I want to use it in the future as a habby in my spare time
-  
+  * 😇Student Membership of CCF(China Computer Federation)/CAAI(Chinese Association for Artificial Intelligence)
 </details>
 
 - ### Using🧐
