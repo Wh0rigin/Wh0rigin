@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> Wh0rigin,a developer.
 
-<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> 光酒Sensei,a ASMVer ed.
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> 光酒Sensei,Interested in video editing.
 
 **so,Who am i?**
 
@@ -26,7 +26,7 @@
   * 👨🏻‍💻A student of the Internet of Things,💻Interested in Software development.
       🌐Recent focus on FullStack.⛺Like explore middleware's basic realization.
   * 📚Participated in IoT competitions、intelligent car race competition and maker competitions。
-  * 🎬Interested in video editing,sometimes edit ASMV.
+  * 🎬Interested in video editing.
   * 💠Mainly used cpp,py,go and java,Interested in Rust
   * 🍭Although I don't know front-end now, I want to use it in the future as a habby in my spare time
   * 😇Student Membership of CCF(China Computer Federation)/CAAI(Chinese Association for Artificial Intelligence)
