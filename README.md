@@ -23,7 +23,7 @@
 <details>
   <summary>More detailed description about me 💬</summary>
   
-  * 👨🏻‍💻A student of the Internet of Things,💻Interested in Software development.
+  * 👨🏻‍💻A student of the Internet of Things and Computer Science,💻Interested in Software development.
       🌐Recent focus on FullStack.⛺Like explore middleware's basic realization.
   * 📚Participated in IoT competitions、intelligent car race competition and maker competitions。
   * 🎬Interested in video editing.
