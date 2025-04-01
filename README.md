@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center">
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin&theme=default&title_color=4682B4" />
@@ -7,18 +7,17 @@
 </a>
 
 ---
-
+<!--
 <a target="_blank">
   <img align="right" src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/yuki.jpg" width="380px" />
 </a>
+-->
 
 <img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> Wh0rigin,a developer.
 
 <img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> 光酒Sensei,Interested in video editing.
 
-**so,Who am i?**
-
-<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> i am a student come from China.
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> I will pursue all that I love.
 
 <details>
   <summary>More detailed description about me 💬</summary>
