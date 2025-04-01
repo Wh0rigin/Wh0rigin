@@ -13,11 +13,13 @@
 </a>
 -->
 
-<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> Wh0rigin,a developer.
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> Wh0rigin, a developer.
 
-<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> 光酒Sensei,Interested in video editing.
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> Wh0rigin, an animation lover.
 
-<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> I will pursue all that I love.
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> Wh0rigin, an tech otaku.
+
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> This is who I am, they are all who I am, and I will pursue all that I love.
 
 <details>
   <summary>More detailed description about me 💬</summary>
