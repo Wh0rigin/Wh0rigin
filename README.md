@@ -28,7 +28,6 @@
   * 📚Participated in IoT competitions、intelligent car race competition and maker competitions。
   * 🎬Interested in video editing.
   * 💠Mainly used cpp,py,go and java,Interested in Rust
-  * 🍭Although I don't know front-end now, I want to use it in the future as a habby in my spare time
   * 😇Student Membership of CCF(China Computer Federation)/CAAI(Chinese Association for Artificial Intelligence)
 </details>
 
@@ -46,7 +45,7 @@
 <img src="https://count.getloli.com/get/@Wh0rigin?theme=rule34" alt=":Wh0rigin" align="right" />
 
 - ### Hobby👯
-    - ![Anim](https://img.shields.io/badge/-Animation-0080ff?style=flat-square&logoColor=white) ![Galgame](https://img.shields.io/badge/-Galgame-FFCC00?style=flat-square&logoColor=white) 
+    - ![Anim](https://img.shields.io/badge/-Animation-0080ff?style=flat-square&logoColor=white) 
 
 <details>
   <summary>Classified by skill stack ❄️ </summary>
