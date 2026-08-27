@@ -17,7 +17,7 @@
 <details>
   <summary>More detailed description about me 💬</summary>
   
-  * 👨🏻‍💻CS (B.S.) & AI (M.S.) Student | IoT Background,💻Interested in Software development.
+  * 👨🏻‍💻CS (B.E.) & AI (M.E.) Student | IoT Background,💻Interested in Software development.
       🌐Recent focus on AI Agent.⛺Like explore middleware's basic realization.
   * 📚Participated in IoT competitions、intelligent car race competition and maker competitions。
   * 🎬Interested in video editing.
