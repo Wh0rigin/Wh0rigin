@@ -8,16 +8,13 @@
 
 <img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> Wh0rigin, a developer.
 
-<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> Wh0rigin, an animation lover.
+<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> CS (B.E.) & AI (M.E.) Student | IoT Background,
 
-<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> Wh0rigin, an tech otaku.
-
-<img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25px"/> This is who I am, they are all who I am, and I will pursue all that I love.
 
 <details>
   <summary>More detailed description about me 💬</summary>
   
-  * 👨🏻‍💻CS (B.E.) & AI (M.E.) Student | IoT Background,💻Interested in Software development.
+  * 💻Interested in Software development.
       🌐Recent focus on AI Agent.⛺Like explore middleware's basic realization.
   * 📚Participated in IoT competitions、intelligent car race competition and maker competitions。
   * 🎬Interested in video editing.
