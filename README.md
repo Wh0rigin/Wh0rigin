@@ -94,6 +94,8 @@
 
 ---
 
+[![Stats](https://githubcard.com/Wh0rigin.svg)](https://github.com/Wh0rigin)
+
 <details>
   <summary>Another me~me~me 🌈</summary>
   <p align = "center">✨__They are all me__✨</p>
@@ -113,7 +115,7 @@
 </details>
 
 <p align="center">
-🌸The END🌸
+The END
 </p>
 
 
