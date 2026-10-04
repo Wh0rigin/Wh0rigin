@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">Wh0rigin · THE WIRED WORLD</title>
+  <desc id="desc">欢迎来到连线世界。蓝青色水波主题，灵感来自 Wh0rigin 的博客主页。</desc>
+  <defs>
+    <linearGradient id="depth" x2="0" y2="1"><stop stop-color="#31f3ee"/><stop offset=".45" stop-color="#0879d1"/><stop offset="1" stop-color="#09118f"/></linearGradient>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#061b54" opacity=".08"/></pattern>
+  </defs>
+  <path fill="url(#depth)" d="M0 0h1000v320H0Z"/>
+
+    <path d="M710 0h33L620 320h-69ZM854 0h22l100 320H844Z" fill="#b6fff6" opacity=".13"/>
+    <path d="m610 31 82 12 60-20 67 14 41-15 67 23 73-14v25l-68 10-78-17-51 15-67-11-51 16-75-15Z" fill="#59fff4" opacity=".55"/>
+    <path d="M654 111c71-37 160-19 199-45s94-11 147-26" fill="none" stroke="#adfff7" opacity=".35" stroke-width="2"/>
+    <ellipse cx="831" cy="85" rx="66" ry="14" fill="none" stroke="#adfff7" stroke-width="4" opacity=".7"/>
+    <ellipse cx="831" cy="85" rx="115" ry="27" fill="none" stroke="#adfff7" stroke-width="2" opacity=".5"/>
+    <ellipse cx="831" cy="85" rx="162" ry="39" fill="none" stroke="#adfff7" stroke-width="1.5" opacity=".4"/>
+    <path d="M946 109c-57 63 26 70-23 136s-4 86-4 86" fill="none" stroke="#59fff4" opacity=".25" stroke-width="2"/>
+    <g fill="none" stroke="#b9fffc" stroke-width="2" opacity=".65"><circle cx="917" cy="220" r="8"/><circle cx="929" cy="197" r="3"/><circle cx="724" cy="278" r="5"/></g>
+
+  <path fill="#faffff" d="M0 0h666l-22 86 14 47-30 91 16 42-18 54H0Z"/>
+  <path fill="url(#dots)" d="M0 0h618v320H0Z"/>
+  <text x="16" y="296" fill="#061b54" opacity=".07" font-family="Arial,Helvetica,sans-serif" font-size="302" font-weight="900" font-style="italic" letter-spacing="-27">03</text>
+  <g font-family="Arial,'Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+    <path fill="#061b54" d="M58 34h173l-5 28H53Z"/>
+    <path fill="#17ddec" d="m72 45 5 5-5 5-5-5Z"/>
+    <text x="89" y="54" fill="#faffff" font-size="13" font-weight="900" font-style="italic" letter-spacing="2">WELCOME TO</text>
+    <text x="54" y="117" fill="#061b54" font-size="45" font-weight="900" font-style="italic" letter-spacing="-2">欢迎来到</text>
+    <path fill="#17ddec" d="M67 140h407l-16 83H51Z"/>
+    <path fill="#002578" d="M58 133h407l-16 83H42Z"/>
+    <text x="63" y="199" fill="#ffffff" font-size="65" font-weight="900" font-style="italic" letter-spacing="-3">连线世界</text>
+    <text x="54" y="255" fill="#061b54" font-size="18" font-weight="800" letter-spacing="1">WH0RIGIN / CODE, MUSIC &amp; EXPLORATION</text>
+    <path stroke="#17ddec" stroke-width="4" d="M54 284h27"/>
+    <text x="94" y="289" fill="#061b54" font-size="13" font-weight="900" font-style="italic" letter-spacing="2">THE WIRED WORLD</text>
+  </g>
+  <g fill="none" stroke="#b9fffc" opacity=".75">
+    <circle cx="824" cy="184" r="55" stroke-width="2"/><circle cx="824" cy="184" r="68" stroke-dasharray="3 8"/>
+    <path d="M824 109v20M824 239v20M749 184h20M879 184h20" stroke-width="2"/>
+  </g>
+  <text x="824" y="204" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="900" font-style="italic">03</text>
+  <text x="824" y="286" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="12" letter-spacing="2">DAYLIGHT SIGNAL / 03</text>
+  <path stroke="#17ddec" stroke-width="4" d="M0 318h620"/>
+</svg>

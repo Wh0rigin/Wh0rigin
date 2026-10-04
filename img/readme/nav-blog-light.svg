@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="48" viewBox="0 0 184 48" role="img" aria-labelledby="title">
+  <title id="title">手记 / BLOG</title>
+  <path d="M10 10h172l-7 36H3Z" fill="#17ddec"/>
+  <path d="M8 3h172l-7 36H1Z" fill="#003b9e" stroke="#002578" stroke-width="1.5"/>
+  <text x="17" y="26" fill="#17ddec" font-family="monospace" font-size="11" font-weight="700">02</text>
+  <text x="43" y="26" fill="#ffffff" font-family="Arial,'Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" font-weight="800" font-style="italic">手记 / BLOG</text>
+  <path d="M151 24h11m-5-5 5 5-5 5" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+</svg>

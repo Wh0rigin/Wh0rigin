@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">Wh0rigin · THE WIRED WORLD</title>
+  <desc id="desc">欢迎来到连线世界。红黑夜间信号主题，灵感来自 Wh0rigin 的博客主页。</desc>
+  <defs>
+    <linearGradient id="depth" x2="0" y2="1"><stop stop-color="#ff3842"/><stop offset=".45" stop-color="#bd101d"/><stop offset="1" stop-color="#360b16"/></linearGradient>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#f6f2ec" opacity=".08"/></pattern>
+  </defs>
+  <path fill="url(#depth)" d="M0 0h1000v320H0Z"/>
+
+    <path d="M722 -42 806 -42 608 362 524 362Z" fill="#08080a" opacity=".6"/>
+    <path d="M947 -32 969 -32 774 354 752 354Z" fill="#f6eee3" opacity=".14"/>
+    <path d="m878 44 37 33-37 33-37-33Z" fill="#f6eee3"/>
+    <path d="m709 253 19 17-19 17-19-17Z" fill="#f6eee3"/>
+    <path d="M937 191h43M937 204h28M937 217h37" stroke="#f6eee3" stroke-width="3" opacity=".65"/>
+
+  <path fill="#09090c" d="M0 0h666l-22 86 14 47-30 91 16 42-18 54H0Z"/>
+  <path fill="url(#dots)" d="M0 0h618v320H0Z"/>
+  <text x="16" y="296" fill="#f6f2ec" opacity=".07" font-family="Arial,Helvetica,sans-serif" font-size="302" font-weight="900" font-style="italic" letter-spacing="-27">05</text>
+  <g font-family="Arial,'Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+    <path fill="#f6f2ec" d="M58 34h173l-5 28H53Z"/>
+    <path fill="#e5222d" d="m72 45 5 5-5 5-5-5Z"/>
+    <text x="89" y="54" fill="#09090c" font-size="13" font-weight="900" font-style="italic" letter-spacing="2">WELCOME TO</text>
+    <text x="54" y="117" fill="#f6f2ec" font-size="45" font-weight="900" font-style="italic" letter-spacing="-2">欢迎来到</text>
+    <path fill="#e5222d" d="M67 140h407l-16 83H51Z"/>
+    <path fill="#000000" d="M58 133h407l-16 83H42Z"/>
+    <text x="63" y="199" fill="#ffffff" font-size="65" font-weight="900" font-style="italic" letter-spacing="-3">连线世界</text>
+    <text x="54" y="255" fill="#f6f2ec" font-size="18" font-weight="800" letter-spacing="1">WH0RIGIN / CODE, MUSIC &amp; EXPLORATION</text>
+    <path stroke="#e5222d" stroke-width="4" d="M54 284h27"/>
+    <text x="94" y="289" fill="#f6f2ec" font-size="13" font-weight="900" font-style="italic" letter-spacing="2">THE WIRED WORLD</text>
+  </g>
+  <g fill="none" stroke="#f6eee3" opacity=".75">
+    <circle cx="824" cy="184" r="55" stroke-width="2"/><circle cx="824" cy="184" r="68" stroke-dasharray="3 8"/>
+    <path d="M824 109v20M824 239v20M749 184h20M879 184h20" stroke-width="2"/>
+  </g>
+  <text x="824" y="204" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="900" font-style="italic">05</text>
+  <text x="824" y="286" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="12" letter-spacing="2">NIGHT SIGNAL / 05</text>
+  <path stroke="#e5222d" stroke-width="4" d="M0 318h620"/>
+</svg>
