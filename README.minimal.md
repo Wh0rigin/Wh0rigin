@@ -40,10 +40,6 @@
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Lain2.gif" width="400" alt="Lain animation" />
-</p>
-
-<p align="center">
   <sub>Visitors</sub><br />
   <img src="https://count.getloli.com/get/@Wh0rigin?theme=rule34" alt="Wh0rigin's visitor count" />
 </p>

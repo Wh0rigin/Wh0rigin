@@ -52,17 +52,15 @@
   <p><b>Embedded &amp; IoT</b><br />STM32, Zigbee / CC2530, Arduino, Altium Designer.</p>
 </td>
 </tr>
-<tr>
-<td width="50%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Lain2.gif" width="320" alt="Lain animation" />
-</td>
-<td width="50%" align="center" valign="middle">
-  <h3>04 / Visitors</h3>
-  <p><sub>Thanks for connecting.</sub></p>
-  <img src="https://count.getloli.com/get/@Wh0rigin?theme=rule34" width="320" alt="Wh0rigin's visitor count" />
-</td>
-</tr>
 </table>
+
+<h3 align="center">04 / Visitors</h3>
+<p align="center">
+  <sub>Thanks for connecting.</sub>
+</p>
+<p align="center">
+  <img src="https://count.getloli.com/get/@Wh0rigin?theme=rule34" width="320" alt="Wh0rigin's visitor count" />
+</p>
 
 <p align="center">
   <sub><a href="README.minimal.md">Minimal edition</a> · <a href="README.styled.md">Wired edition</a> · <a href="docs/readme-versions.md">切换版本</a></sub>
