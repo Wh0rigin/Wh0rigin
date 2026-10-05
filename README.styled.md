@@ -24,9 +24,9 @@
   </ul>
   <p><b>Background &amp; interests</b></p>
   <ul>
-    <li>Participated in IoT, intelligent car, and maker competitions.</li>
-    <li>Student member of CCF (China Computer Federation) and CAAI (Chinese Association for Artificial Intelligence).</li>
-    <li>Enjoy animation, video editing, Photoshop, Premiere Pro, Blender, and Cinema 4D.</li>
+    <li>🏆 Participated in IoT, intelligent car, and maker competitions.</li>
+    <li>🎓 Student member of CCF (China Computer Federation) and CAAI (Chinese Association for Artificial Intelligence).</li>
+    <li>🎨 Enjoy animation, video editing, Photoshop, Premiere Pro, Blender, and Cinema 4D.</li>
   </ul>
 </td>
 <td width="50%" valign="top">
