@@ -30,7 +30,7 @@
 
 ## Find me elsewhere
 
-[Zhihu](https://www.zhihu.com/people/guang-jiu-48-93) · [CSDN](https://blog.csdn.net/qq_33985931) · [LeetCode](https://leetcode.cn/u/wh0rigin/)
+[CSDN](https://blog.csdn.net/qq_33985931) · [LeetCode](https://leetcode.cn/u/wh0rigin/) · [Zhihu](https://www.zhihu.com/people/guang-jiu-48-93)
 
 <details>
 <summary>GitHub activity</summary>

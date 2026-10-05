@@ -30,12 +30,6 @@
       <li>Enjoy animation, video editing, Photoshop, Premiere Pro, Blender, and Cinema 4D.</li>
     </ul>
   </details>
-  <h3>03 / Find me elsewhere</h3>
-  <p><a href="https://www.zhihu.com/people/guang-jiu-48-93">Zhihu</a> · <a href="https://blog.csdn.net/qq_33985931">CSDN</a> · <a href="https://leetcode.cn/u/wh0rigin/">LeetCode</a></p>
-  <details>
-    <summary>GitHub activity</summary>
-    <p><a href="https://github.com/Wh0rigin"><img src="https://githubcard.com/Wh0rigin.svg" alt="Wh0rigin's GitHub stats" /></a></p>
-  </details>
 </td>
 <td width="50%" valign="top">
   <h3>02 / Tech stack</h3>
@@ -53,6 +47,13 @@
 </td>
 </tr>
 </table>
+
+<h3>03 / Find me elsewhere</h3>
+<p><a href="https://blog.csdn.net/qq_33985931">CSDN</a> · <a href="https://leetcode.cn/u/wh0rigin/">LeetCode</a> · <a href="https://www.zhihu.com/people/guang-jiu-48-93">Zhihu</a></p>
+<details>
+  <summary>GitHub activity</summary>
+  <p align="center"><a href="https://github.com/Wh0rigin"><img src="https://githubcard.com/Wh0rigin.svg" alt="Wh0rigin's GitHub stats" /></a></p>
+</details>
 
 <h3 align="center">04 / Visitors</h3>
 <p align="center">
