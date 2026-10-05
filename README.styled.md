@@ -22,14 +22,12 @@
     <li>🌱 Learning <b>Rust</b> and <b>CMake</b>.</li>
     <li>✍️ Sharing notes on code, music, and everyday life.</li>
   </ul>
-  <details>
-    <summary>Background &amp; interests</summary>
-    <ul>
-      <li>Participated in IoT, intelligent car, and maker competitions.</li>
-      <li>Student member of CCF (China Computer Federation) and CAAI (Chinese Association for Artificial Intelligence).</li>
-      <li>Enjoy animation, video editing, Photoshop, Premiere Pro, Blender, and Cinema 4D.</li>
-    </ul>
-  </details>
+  <p><b>Background &amp; interests</b></p>
+  <ul>
+    <li>Participated in IoT, intelligent car, and maker competitions.</li>
+    <li>Student member of CCF (China Computer Federation) and CAAI (Chinese Association for Artificial Intelligence).</li>
+    <li>Enjoy animation, video editing, Photoshop, Premiere Pro, Blender, and Cinema 4D.</li>
+  </ul>
 </td>
 <td width="50%" valign="top">
   <h3>02 / Tech stack</h3>

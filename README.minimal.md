@@ -10,14 +10,11 @@
 - 🌱 Learning **Rust** and **CMake**.
 - ✍️ Sharing notes on code, music, and everyday life.
 
-<details>
-<summary>More about my background & interests</summary>
+### Background & interests
 
 - Participated in IoT, intelligent car, and maker competitions.
 - Student member of CCF (China Computer Federation) and CAAI (Chinese Association for Artificial Intelligence).
 - Enjoy animation, video editing, and creative tools such as Photoshop, Premiere Pro, Blender, and Cinema 4D.
-
-</details>
 
 ## Tech stack
 
