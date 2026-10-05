@@ -13,9 +13,11 @@
   <img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25" alt="Laughing Man" /> <b>Wh0rigin</b> · Developer · CS (B.E.) &amp; AI (M.E.) student · IoT background
 </p>
 
+<!-- Use GitHub's native dl/dd spacing because inline padding styles are sanitized. -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<dl role="presentation"><dd>
   <h3>01 / About me</h3>
   <ul>
     <li>💻 Interested in software development, with a current focus on <b>AI agents</b> and middleware internals.</li>
@@ -28,8 +30,10 @@
     <li>🎓 Student member of CCF (China Computer Federation) and CAAI (Chinese Association for Artificial Intelligence).</li>
     <li>🎨 Enjoy animation, video editing, Photoshop, Premiere Pro, Blender, and Cinema 4D.</li>
   </ul>
+</dd></dl>
 </td>
 <td width="50%" valign="top">
+<dl role="presentation"><dd>
   <h3>02 / Tech stack</h3>
   <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C" />
@@ -42,6 +46,7 @@
   <p><b>Development tools</b><br />Git, Docker, Linux, Bash, PowerShell, Vim, VS Code, Visual Studio.</p>
   <p><b>Web &amp; mobile</b><br />JavaScript, HTML, CSS, Android Studio.</p>
   <p><b>Embedded &amp; IoT</b><br />STM32, Zigbee / CC2530, Arduino, Altium Designer.</p>
+</dd></dl>
 </td>
 </tr>
 </table>
