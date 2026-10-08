@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  <sub><a href="README.minimal.md">Minimal edition</a> · <a href="README.styled.md">Wired edition</a> · <a href="docs/readme-versions.md">切换版本</a></sub>
+  <sub><a href="README.minimal.md">Minimal edition</a> · <a href="README.styled.md">Wired edition</a></sub>
 </p>
