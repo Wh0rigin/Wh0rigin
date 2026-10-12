@@ -2,6 +2,6 @@
   <title id="title">Home</title>
   <path d="M10 10h172l-7 36H3Z" fill="#e5222d"/>
   <path d="M8 3h172l-7 36H1Z" fill="#151519" stroke="#f6eee3" stroke-width="1.5"/>
-  <text x="43" y="26" fill="#ffffff" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="15" font-weight="900" font-style="italic" stroke="#ffffff" stroke-width="1.2" paint-order="stroke fill">HOME</text>
+  <text x="75" y="26" text-anchor="middle" fill="#ffffff" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="15" font-weight="900" font-style="italic" letter-spacing="0.5" stroke="#ffffff" stroke-width="1.2" paint-order="stroke fill">HOME</text>
   <path d="M151 24h11m-5-5 5 5-5 5" fill="none" stroke="#ffffff" stroke-width="1.5"/>
 </svg>

@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://wh0rigin.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-home-dark.svg?v=bold2" /><img src="img/readme/nav-home-light.svg?v=bold2" width="164" alt="Home" /></picture></a>
-  <a href="https://wh0rigin.github.io/blog/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-blog-dark.svg?v=bold2" /><img src="img/readme/nav-blog-light.svg?v=bold2" width="164" alt="Blog" /></picture></a>
-  <a href="https://github.com/Wh0rigin?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-projects-dark.svg?v=bold2" /><img src="img/readme/nav-projects-light.svg?v=bold2" width="164" alt="Projects" /></picture></a>
-  <a href="mailto:polyfun@foxmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-contact-dark.svg?v=bold2" /><img src="img/readme/nav-contact-light.svg?v=bold2" width="164" alt="Contact" /></picture></a>
+  <a href="https://wh0rigin.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-home-dark.svg?v=bold3" /><img src="img/readme/nav-home-light.svg?v=bold3" width="164" alt="Home" /></picture></a>
+  <a href="https://wh0rigin.github.io/blog/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-blog-dark.svg?v=bold3" /><img src="img/readme/nav-blog-light.svg?v=bold3" width="164" alt="Blog" /></picture></a>
+  <a href="https://github.com/Wh0rigin?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-projects-dark.svg?v=bold3" /><img src="img/readme/nav-projects-light.svg?v=bold3" width="164" alt="Projects" /></picture></a>
+  <a href="mailto:polyfun@foxmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-contact-dark.svg?v=bold3" /><img src="img/readme/nav-contact-light.svg?v=bold3" width="164" alt="Contact" /></picture></a>
 </p>
 
 <p align="center">
