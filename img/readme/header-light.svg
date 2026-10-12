@@ -21,11 +21,11 @@
   <g font-family="Arial,Helvetica,sans-serif">
     <path fill="#061b54" d="M58 34h173l-5 28H53Z"/>
     <path fill="#17ddec" d="m72 45 5 5-5 5-5-5Z"/>
-    <text x="89" y="54" fill="#faffff" font-size="13" font-weight="900" font-style="italic" letter-spacing="2">PERSONAL SPACE</text>
+    <text x="89" y="54" fill="#faffff" font-size="13" font-weight="900" font-style="italic" letter-spacing="2">PORTFOLIO</text>
     <text x="54" y="117" fill="#061b54" font-size="45" font-weight="900" font-style="italic" letter-spacing="-2">WELCOME TO</text>
     <path fill="#17ddec" d="M67 140h407l-16 83H51Z"/>
     <path fill="#002578" d="M58 133h407l-16 83H42Z"/>
-    <text x="63" y="199" fill="#ffffff" font-size="54" font-weight="900" font-style="italic" letter-spacing="-3">WIRED WORLD</text>
+    <text x="63" y="199" fill="#ffffff" font-size="50" font-weight="900" font-style="italic" letter-spacing="-3">WIRED WORLD</text>
     <text x="54" y="255" fill="#061b54" font-size="18" font-weight="800" letter-spacing="1">WH0RIGIN / CODE, MUSIC &amp; EXPLORATION</text>
     <path stroke="#17ddec" stroke-width="4" d="M54 284h27"/>
     <text x="94" y="289" fill="#061b54" font-size="13" font-weight="900" font-style="italic" letter-spacing="2">PERSONAL WEBSITE</text>
