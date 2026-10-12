@@ -2,6 +2,6 @@
   <title id="title">Contact</title>
   <path d="M10 10h172l-7 36H3Z" fill="#17ddec"/>
   <path d="M8 3h172l-7 36H1Z" fill="#003b9e" stroke="#002578" stroke-width="1.5"/>
-  <text x="43" y="26" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="800" font-style="italic">CONTACT</text>
+  <text x="43" y="26" fill="#ffffff" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="13" font-weight="900" font-style="italic" stroke="#ffffff" stroke-width="0.4" paint-order="stroke fill">CONTACT</text>
   <path d="M151 24h11m-5-5 5 5-5 5" fill="none" stroke="#ffffff" stroke-width="1.5"/>
 </svg>
