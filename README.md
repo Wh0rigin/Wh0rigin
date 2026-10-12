@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wh0rigin.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/header-dark.svg" /><img src="img/readme/header-light.svg" width="1000" alt="Wh0rigin · Wired World" /></picture></a>
+  <a href="https://wh0rigin.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/header-dark.svg" /><img src="img/readme/header-light.svg" width="800" alt="Wh0rigin · Wired World" /></picture></a>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 <p><a href="https://blog.csdn.net/qq_33985931">CSDN</a> · <a href="https://leetcode.cn/u/wh0rigin/">LeetCode</a> · <a href="https://www.zhihu.com/people/guang-jiu-48-93">Zhihu</a></p>
 <details>
   <summary>GitHub activity</summary>
-  <p align="center"><a href="https://github.com/Wh0rigin"><img src="https://githubcard.com/Wh0rigin.svg" alt="Wh0rigin's GitHub stats" /></a></p>
+  <p align="center"><a href="https://github.com/Wh0rigin"><img src="https://githubcard.com/Wh0rigin.svg" width="800" alt="Wh0rigin's GitHub stats" /></a></p>
 </details>
 </div>
 
