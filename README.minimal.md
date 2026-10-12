@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Wh0rigin/Wh0rigin/main/img/Laughing%20Man.jpg" width="25" alt="Laughing Man" /> Developer · CS (B.E.) & AI (M.E.) student · IoT background
 
-[![Home](https://img.shields.io/badge/Home-连线世界-24292f?style=for-the-badge)](https://wh0rigin.github.io/) [![Blog](https://img.shields.io/badge/Blog-连线手记-0969da?style=for-the-badge)](https://wh0rigin.github.io/blog/) [![Projects](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wh0rigin?tab=repositories) [![Contact](https://img.shields.io/badge/Contact-邮件-2da44e?style=for-the-badge)](mailto:polyfun@foxmail.com)
+[![Home](https://img.shields.io/badge/Home-Wired%20World-24292f?style=for-the-badge)](https://wh0rigin.github.io/) [![Blog](https://img.shields.io/badge/Blog-Wh0rigin-0969da?style=for-the-badge)](https://wh0rigin.github.io/blog/) [![Projects](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wh0rigin?tab=repositories) [![Contact](https://img.shields.io/badge/Contact-Email-2da44e?style=for-the-badge)](mailto:polyfun@foxmail.com)
 
 ## About me
 

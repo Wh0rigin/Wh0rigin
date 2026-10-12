@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://wh0rigin.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/header-dark.svg" /><img src="img/readme/header-light.svg" width="1000" alt="Wh0rigin / THE WIRED WORLD — 欢迎来到连线世界" /></picture></a>
+  <a href="https://wh0rigin.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/header-dark.svg" /><img src="img/readme/header-light.svg" width="1000" alt="Wh0rigin · Wired World" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://wh0rigin.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-home-dark.svg" /><img src="img/readme/nav-home-light.svg" width="164" alt="主页 / Home" /></picture></a>
-  <a href="https://wh0rigin.github.io/blog/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-blog-dark.svg" /><img src="img/readme/nav-blog-light.svg" width="164" alt="连线手记 / Blog" /></picture></a>
-  <a href="https://github.com/Wh0rigin?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-projects-dark.svg" /><img src="img/readme/nav-projects-light.svg" width="164" alt="项目 / Projects" /></picture></a>
-  <a href="mailto:polyfun@foxmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-contact-dark.svg" /><img src="img/readme/nav-contact-light.svg" width="164" alt="联系 / Contact" /></picture></a>
+  <a href="https://wh0rigin.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-home-dark.svg" /><img src="img/readme/nav-home-light.svg" width="164" alt="Home" /></picture></a>
+  <a href="https://wh0rigin.github.io/blog/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-blog-dark.svg" /><img src="img/readme/nav-blog-light.svg" width="164" alt="Blog" /></picture></a>
+  <a href="https://github.com/Wh0rigin?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-projects-dark.svg" /><img src="img/readme/nav-projects-light.svg" width="164" alt="Projects" /></picture></a>
+  <a href="mailto:polyfun@foxmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/readme/nav-contact-dark.svg" /><img src="img/readme/nav-contact-light.svg" width="164" alt="Contact" /></picture></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <tr>
 <td width="50%" valign="top">
 <dl role="presentation"><dd>
-  <h3>01 / About me</h3>
+  <h3>About me</h3>
   <ul>
     <li>💻 Interested in software development, with a current focus on <b>AI agents</b> and middleware internals.</li>
     <li>🌱 Learning <b>Rust</b> and <b>CMake</b>.</li>
@@ -34,7 +34,7 @@
 </td>
 <td width="50%" valign="top">
 <dl role="presentation"><dd>
-  <h3>02 / Tech stack</h3>
+  <h3>Tech stack</h3>
   <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
@@ -52,7 +52,7 @@
 </table>
 
 <div align="center">
-<h3>03 / Find me elsewhere</h3>
+<h3>Find me elsewhere</h3>
 <p><a href="https://blog.csdn.net/qq_33985931">CSDN</a> · <a href="https://leetcode.cn/u/wh0rigin/">LeetCode</a> · <a href="https://www.zhihu.com/people/guang-jiu-48-93">Zhihu</a></p>
 <details>
   <summary>GitHub activity</summary>
@@ -60,7 +60,7 @@
 </details>
 </div>
 
-<h3 align="center">04 / Visitors</h3>
+<h3 align="center">Visitors</h3>
 <p align="center">
   <sub>Thanks for connecting.</sub>
 </p>
@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  <sub><a href="README.minimal.md">Minimal edition</a> · <a href="README.styled.md">Wired edition</a></sub>
+  <sub><a href="README.minimal.md">Simple edition</a> · <a href="README.styled.md">Wired World edition</a></sub>
 </p>
